@@ -1,0 +1,10 @@
+body{
+  color:black;
+}
+#abrirTexto{
+  position: absolute;
+  left:40%;
+  top:40%;
+  font-size:50px;
+  color:red;
+}
