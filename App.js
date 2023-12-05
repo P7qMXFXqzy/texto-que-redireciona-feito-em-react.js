@@ -17,7 +17,7 @@ function App() {
       <>
         {/*definição da cor de fundo*/}
         <Helmet>
-          <style>{'body { background-color: red; }'}</style>
+          <style>{'body { background-color: black; }'}</style>
         </Helmet>
         {/*texto clicável que redirecionará para o youtube*/}
         <a id="abrirTexto" href="/" onClick={textoClicavel}>
